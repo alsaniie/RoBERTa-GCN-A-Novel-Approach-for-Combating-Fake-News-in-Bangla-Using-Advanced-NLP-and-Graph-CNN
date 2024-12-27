@@ -1,0 +1,2 @@
+# RoBERTa-GCN-A-Novel-Approach-for-Combating-Fake-News-in-Bangla-Using-Advanced-NLP-and-Graph-CNN
+In this era of widespread information, combating fake news in less commonly represented languages like Bengali is a significant challenge. Fake news is a critical issue in Bangla, adequate natural language processing tools. To address this, our research introduces RoBERTa-GCN, a cutting-edge model combining RoBERTa with a graph neural network (GCN)
