@@ -27,16 +27,9 @@ integrity in the digital era, especially for the Bangla-speaking population.
 ![image](https://github.com/user-attachments/assets/a4405d41-5233-460b-acca-652b12bea094)
 
 # To Cite My Work: 
-@ARTICLE{10677406,
-  author={Ahammad, Mejbah and Sani, Al and Rahman, Khalilur and Islam, Md Tanvir and Masud, Md Mostafizur Rahman and Hassan, Md. Mehedi and Rony, Mohammad Abu Tareq and Alam, Shah Md Nazmul and Mukta, Md. Saddam Hossain},
-  journal={IEEE Access}, 
-  title={RoBERTa-GCN: A Novel Approach for Combating Fake News in Bangla Using Advanced Language Processing and Graph Convolutional Networks}, 
-  year={2024},
-  volume={12},
-  number={},
-  pages={132644-132663},
-  keywords={Fake news;Social networking (online);Accuracy;Data models;Support vector machines;Long short term memory;Feature extraction;Fake news detection;graph neural network;NLP;Bangla language;deep learning;machine learning;encoder},
-  doi={10.1109/ACCESS.2024.3457860}}
+M. Ahammad et al., "RoBERTa-GCN: A Novel Approach for Combating Fake News in Bangla Using Advanced Language Processing and Graph Convolutional Networks," in IEEE Access, vol. 12, pp. 132644-132663, 2024, doi: 10.1109/ACCESS.2024.3457860.
+keywords: {Fake news;Social networking (online);Accuracy;Data models;Support vector machines;Long short term memory;Feature extraction;Fake news detection;graph neural network;NLP;Bangla language;deep learning;machine learning;encoder}
+
 
 
 
